@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Prickly",
+        "HERO_HEADING_TEXT": "Embrace the Power of Resilience",
+        "HERO_SUBHEADING_TEXT": "Grow your digital presence with Prickly, the cactus-inspired web solution that thrives in any environment",
+        "FOOTER_TEXT": "\u00a9 2023 Prickly. Standing tall in the digital desert."
+    }
+}
