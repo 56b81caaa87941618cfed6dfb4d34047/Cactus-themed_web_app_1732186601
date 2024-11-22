@@ -6,46 +6,5 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
-    },
-    {
-        "id": "4edb21bf-4f96-40d6-baaa-5fe38300c940",
-        "timestamp": "2024-11-21T11:00:09.406972Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "generate a frontend to interact with the smart contract with address 0x1F98431c8aD98523631AE4a59f267346ea31F984 on ETH",
-        "metadata": {
-            "component_id": "Footer1732186605"
-        }
-    },
-    {
-        "id": "e9d34cda-8ab0-4357-a93b-8cb585014be5",
-        "timestamp": "2024-11-21T11:00:15.778400Z",
-        "role": "tool_call",
-        "source": "base_assistant",
-        "content": null,
-        "metadata": {
-            "id": "call_UTSAwWoh9PpJ3bJghptNewGA",
-            "function": {
-                "arguments": "{\"component_id\":\"Footer1732186605\",\"sc_address\":\"0x1F98431c8aD98523631AE4a59f267346ea31F984\",\"chain_id\":\"ETHEREUM\",\"change_description\":\"add interaction with the specified smart contract\",\"acknowledgement_message\":\"Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984\"}",
-                "name": "EditSmartContractFrontendComponent"
-            },
-            "type": "function"
-        }
-    },
-    {
-        "id": "233acf07-284b-4b09-99dc-5c5fad701916",
-        "timestamp": "2024-11-21T11:00:17.177964Z",
-        "role": "assistant",
-        "source": "tool:edit_smart_contract_frontend_component",
-        "content": "Okay, I'm editing the component to interact with the smart contract at 0x1F98431c8aD98523631AE4a59f267346ea31F984",
-        "metadata": {}
-    },
-    {
-        "id": "cbf67615-1069-4db8-93bc-80c1e9820abf",
-        "timestamp": "2024-11-21T11:31:54.200906Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
-        "metadata": {}
     }
 ]
