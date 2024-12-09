@@ -160,5 +160,15 @@
         "source": "tool:DeployAndGenerateFrontend",
         "content": "Deploying the staking smart contract on the Sepolia testnet...",
         "metadata": {}
+    },
+    {
+        "id": "5744e013-323b-45d3-a4b9-400edb0c55df",
+        "timestamp": "2024-12-09T12:25:31.808870Z",
+        "role": "tool_result",
+        "source": "DeployAndGenerateFrontend",
+        "content": "Success: deployed contract to 0x23Dcc036294329DB59fF0D10126A0CCa0D44E81F on Sepolia (Ethereum testnet)",
+        "metadata": {
+            "tool_call_id": "call_bd00b0N2Y5C0HlEXTkeTzj1U"
+        }
     }
 ]
