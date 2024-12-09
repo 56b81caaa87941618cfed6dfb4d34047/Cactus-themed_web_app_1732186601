@@ -63,5 +63,20 @@
         "source": "web_client",
         "content": "generate a staking smart contract",
         "metadata": {}
+    },
+    {
+        "id": "7a38b948-6192-47ca-a66f-7af1ab7d155d",
+        "timestamp": "2024-12-09T12:23:44.025822Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_6KNX8bevOtWjxadfMSWCVxEG",
+            "function": {
+                "arguments": "{}",
+                "name": "TransferToSmartContractAssistant"
+            },
+            "type": "function"
+        }
     }
 ]
