@@ -137,5 +137,20 @@
         "source": "web_client",
         "content": "deploy it in sepolia",
         "metadata": {}
+    },
+    {
+        "id": "54f574e5-3dbc-49b4-b45b-51004a8e1ff6",
+        "timestamp": "2024-12-09T12:24:38.105256Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_bd00b0N2Y5C0HlEXTkeTzj1U",
+            "function": {
+                "arguments": "{\"contract_id\":\"Staking_Contract_1732186601\",\"chain_id\":\"SEPOLIA\",\"frontend_description\":\"A staking smart contract where users can stake tokens and earn rewards.\",\"acknowledgement_message\":\"Deploying the staking smart contract on the Sepolia testnet...\"}",
+                "name": "DeployAndGenerateFrontend"
+            },
+            "type": "function"
+        }
     }
 ]
