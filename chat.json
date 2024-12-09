@@ -88,5 +88,20 @@
         "metadata": {
             "tool_call_id": "call_6KNX8bevOtWjxadfMSWCVxEG"
         }
+    },
+    {
+        "id": "c8b5b60a-b02a-4cfa-bcff-80295898adfb",
+        "timestamp": "2024-12-09T12:23:48.831754Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_Hd5yrxb84FPaUSMcbnStwM93",
+            "function": {
+                "arguments": "{\"contract_id\":\"Staking_Contract_1732186601\",\"description\":\"A Staking smart contract where users can stake tokens to earn rewards.\",\"acknowledgement_message\":\"Okay, I'm generating the staking smart contract...\"}",
+                "name": "WriteSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]
