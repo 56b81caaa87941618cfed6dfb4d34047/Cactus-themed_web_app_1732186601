@@ -170,5 +170,13 @@
         "metadata": {
             "tool_call_id": "call_bd00b0N2Y5C0HlEXTkeTzj1U"
         }
+    },
+    {
+        "id": "ddc5cd18-e8db-4c92-b547-aa23eefa62f1",
+        "timestamp": "2024-12-09T12:25:33.696676Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "The staking smart contract has been successfully deployed on the Sepolia testnet. If you need further assistance or want to make more changes, let me know!",
+        "metadata": {}
     }
 ]
