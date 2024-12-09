@@ -152,5 +152,13 @@
             },
             "type": "function"
         }
+    },
+    {
+        "id": "65976d26-ae40-49d3-a82d-6c623818ef8a",
+        "timestamp": "2024-12-09T12:24:38.192103Z",
+        "role": "assistant",
+        "source": "tool:DeployAndGenerateFrontend",
+        "content": "Deploying the staking smart contract on the Sepolia testnet...",
+        "metadata": {}
     }
 ]
