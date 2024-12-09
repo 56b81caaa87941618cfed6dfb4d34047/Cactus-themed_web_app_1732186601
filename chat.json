@@ -129,5 +129,13 @@
         "source": "smart_contract_assistant",
         "content": "The staking smart contract has been generated. Would you like to deploy it, and if so, on which testnet (Holesky or Sepolia)?",
         "metadata": {}
+    },
+    {
+        "id": "72af26d5-0de2-40d7-bba0-607bbeb7550b",
+        "timestamp": "2024-12-09T12:24:35.908722Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "deploy it in sepolia",
+        "metadata": {}
     }
 ]
